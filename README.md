@@ -3,8 +3,6 @@
 Ce projet a pour but d'analyser l'impact écologique des aliments à l'aide de l'indicateur Eco-Score. 
 Pour cela, on utilise les données de la base de données AGRIBALYSE pour évaluer chaque aliment de l'ensemble A selon 16 critères différents. Chaque aliment est alors représenté sous la forme d'un tuple de 16 éléments, où chaque élément correspond à la valeur de l'aliment pour un critère donné.
 
-Voici la partie que vous pouvez ajouter à votre README pour les fonctionnalités du projet :
-
 ## Fonctionnalités
 Le programme permet de réaliser les fonctionnalités suivantes :
 
